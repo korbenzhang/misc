@@ -1,0 +1,42 @@
+#!/bin/bash
+
+echo "Show versions"
+
+#linux version
+function linux_version(){
+	echo "show linux version"
+	lsb_release -a
+}
+
+# java
+function java_version(){
+	echo "Java version:"
+	echo `which java`
+	java -version
+}
+
+# go version
+function go_version(){
+	echo "Go version"
+	echo `which go`
+	#go version
+}
+
+#svn version
+function svn_version(){
+	echo "Subversion version"
+	svn --version
+}
+
+#main
+function main(){
+	linux_version
+	#java_version()
+	#go_version()
+}
+
+
+main()
+
+echo "End"
+
