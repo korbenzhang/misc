@@ -1,0 +1,21 @@
+#Env
+export GITHUB_HOME="$DEV_HOME/github.com"
+
+#GO LANG
+export GOROOT="$APPS_HOME/go"
+export GOCODE="$DEV_HOME/gocodes"
+export GOPATH="$GOCODE"
+
+export JAVA_HOME="$APPS_HOME/jdk"
+export MAVEN_HOME="$APPS_HOME/apache-maven"
+export ANT_HOME="$APPS_HOME/apache-ant"
+
+#GROOVY
+#GRADLE
+#GRAILS
+
+#ROO
+
+export PATH="$JAVA_HOME/bin:$MAVEN_HOME/bin:$ANT_HOME/bin:$GOROOT/bin:$GOCODE/bin:$APPS_HOME/bin:$HOME/bin:$PATH"
+
+

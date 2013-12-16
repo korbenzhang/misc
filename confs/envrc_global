@@ -1,0 +1,4 @@
+
+#Global
+export APPS_HOME="/home/korbenzhang/apps"
+export DEV_HOME="/home/korbenzhang/dev"

@@ -1,0 +1,8 @@
+
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+[[ -s "/home/korbenzhang/.gvm/bin/gvm-init.sh" && -z $(which gvm-init.sh | grep '/gvm-init.sh') ]] && source "/home/korbenzhang/.gvm/bin/gvm-init.sh"
+
+#[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
+
+source "/home/korbenzhang/.nvm/nvm.sh"

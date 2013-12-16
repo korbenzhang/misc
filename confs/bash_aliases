@@ -1,0 +1,58 @@
+# alias
+
+alias ls='ls --color=auto'
+alias dir='dir --color=auto'
+alias vdir='vdir --color=auto'
+
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+
+alias ll='ls -l'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias c='cd'
+alias md='mkdir -p'
+alias v='vim .'
+alias gvim='gvim --remote-tab-silent'
+alias q='exit'
+alias rm='rm -vi'
+alias rmfr='rm -fr'
+
+alias r='rails'
+alias p='padrino'
+
+#alias sudo='sudo env PATH=$PATH'
+
+alias objcc='gcc `gnustep-config --objc-flags` -lgnustep-base'
+alias objcc++='g++ `gnustep-config --objc-flags` -lgnustep-base'
+
+alias cls='clear'
+
+alias gr='grails'
+
+alias mk='make'
+
+alias gv='groovy'
+
+# Go command
+#alias goi="go install"
+#alias gob="go build"
+#alias gog="go get"
+#alias got="go test"
+#alias gov="go vet"
+#alias govs="go version"
+#alias gol="go list"
+#alias goc="go clean"
+#alias gom="go build"
+#alias gof="go fix"
+
+alias acs='apt-cache search'
+alias agu='sudo apt-get update'
+alias agg='sudo apt-get upgrade'
+alias agd='sudo apt-get dist-upgrade'
+alias agi='sudo apt-get install'
+alias agr='sudo apt-get remove'
+
+
