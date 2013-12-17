@@ -33,7 +33,7 @@ cmap <C-K>    <C-U>
 map <F2> <C-o>
 
 " Build
-map <F11> <ESC>:make<CR>
+"map <F11> <ESC>:make<CR>
 map <leader>mm <ESC>:make<CR>
 
 "QuickFix
