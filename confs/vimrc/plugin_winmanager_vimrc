@@ -1,6 +1,0 @@
-
-" winmanager
-"=====================
-let g:winManagerWindowLayout='FileExplorer|TagList'
-
-

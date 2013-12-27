@@ -1,5 +1,0 @@
-" view
-" ========================
-set viewdir=$HOME/rundata/vim/views/
-"autocmd BufWinLeave * mkview
-"autocmd BufWinEnter * "silent loadview"

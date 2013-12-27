@@ -1,4 +1,0 @@
-" Paste
-" ========================
-set paste
-set clipboard+=unnamed " share windows clipboard

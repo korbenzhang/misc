@@ -1,3 +1,0 @@
-" backupdir
-set nobackup
-set backupdir=$HOME/rundata/vim/

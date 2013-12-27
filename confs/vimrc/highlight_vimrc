@@ -1,6 +1,0 @@
-"Highlight
-" ========================
-set hlsearch
-set incsearch
-set showmatch
-set ignorecase

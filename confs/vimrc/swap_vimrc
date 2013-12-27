@@ -1,3 +1,0 @@
-" swapdir
-set dir=$HOME/rundata/vim/
-set noswapfile
